@@ -1,0 +1,3 @@
+models/*.gguf
+assets/audio/
+__pycache__/
