@@ -205,7 +205,15 @@ npx expo run:android
 
 ## 📄 License
 
-Use appropriate license here
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+- ✅ You can use this code for personal, educational, and commercial projects
+- ✅ You can modify and distribute the code
+- 📝 You must include the license notice and copyright attribution
+- ⚠️ The code is provided "as-is" without warranty
+
+**Copyright © 2025 Neel654. All rights reserved.**
 
 ## 👨‍💻 Author
 
